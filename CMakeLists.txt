@@ -23,6 +23,7 @@ add_executable(${PROJECT_NAME}
     Main.cpp
     Budget.cpp
     Budget.hpp
+    Date.hpp
     )
 
 target_link_libraries(${PROJECT_NAME}
